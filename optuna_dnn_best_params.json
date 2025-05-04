@@ -1,10 +1,10 @@
 {
     "n_layers": 2,
-    "hidden_layer_0": 1965,
-    "hidden_layer_1": 1985,
-    "dropout_rate": 0.24200172448118853,
-    "learning_rate": 0.0003164781883863226,
-    "weight_decay": 0.00015956232200761537,
-    "batch_size": 64,
+    "hidden_layer_0": 1191,
+    "hidden_layer_1": 979,
+    "dropout_rate": 0.3165945688023395,
+    "learning_rate": 9.869080492367043e-05,
+    "weight_decay": 3.6774289248134996e-05,
+    "batch_size": 128,
     "use_batch_norm": true
 }

@@ -1,9 +1,9 @@
 {
     "d_model": 512,
     "nhead": 8,
-    "num_layers": 1,
-    "dropout": 0.45005427315911073,
-    "learning_rate": 0.00024013135659579324,
-    "weight_decay": 4.449439964176486e-06,
-    "batch_size": 128
+    "num_layers": 2,
+    "dropout": 0.404150493717422,
+    "learning_rate": 0.00015691206373011604,
+    "weight_decay": 8.432229199651249e-06,
+    "batch_size": 64
 }
